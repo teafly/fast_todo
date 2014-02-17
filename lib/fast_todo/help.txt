@@ -1,0 +1,8 @@
+help                        see this.
+home                        show homepage.
+list [type]                 list records.
+-   type is emplty          list all records.
+-   type: todo              list all todo records.
+-   type: done              list all done records.					
+add project [name]          add project use name.
+add [record] to [p_index]   add record to project by p_index(project index).
